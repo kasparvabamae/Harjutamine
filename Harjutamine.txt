@@ -1,4 +1,9 @@
+kasparvabamae-Harjutamine
 GitHubi hakkan kasutama kooli töödeks. 
 Kuigi kasutan seda vahel ise oma kontos kui keegi tahab jagada oma koodi ja näitada mulle, siis on seda kerge vaatada GitHubis.
 
 GitHub inc oli leiutatud aastal 2007. Chris Wanstrath, P.J.Hyett, Tom Preston-Werner ja Scott Chacon ehitasid GitHubi aastal 2008.
+
+Github on veebipõhine platvorm, kus saab jagada oma kirjutatud koodi kust saavad kõik kergelt sellele ligi(kui on public).
+Githubi kasutatakse tüüpilselt versiooni kontrolliks. Githubis on kerge seda teha, sest kõik saavad kergelt leida vigu ja paranda.
+ main
