@@ -1,1 +1,2 @@
-sss
+GitHubi hakkan kasutama kooli töödeks. 
+Kuigi kasutan seda vahel ise oma kontos kui keegi tahab jagada oma koodi ja näitada mulle, siis on seda kerge vaatada GitHubis.
