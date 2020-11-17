@@ -1,2 +1,4 @@
 GitHubi hakkan kasutama kooli töödeks. 
 Kuigi kasutan seda vahel ise oma kontos kui keegi tahab jagada oma koodi ja näitada mulle, siis on seda kerge vaatada GitHubis.
+
+GitHub inc oli leiutatud aastal 2007. Chris Wanstrath, P.J.Hyett, Tom Preston-Werner ja Scott Chacon ehitasid GitHubi aastal 2008.
